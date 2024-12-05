@@ -1,46 +1,46 @@
-body{
-  background-color: #2424bc; /* For legacy browsers that do not support gradients */
+body {
+  background-color: #2424bc;
+  /* For legacy browsers that do not support gradients */
   background-image: linear-gradient(to bottom right, #2424bc, #a9a9ef);
   background-attachment: fixed;
   color: white;
   font-family: Arial;
 }
 
-p{
+p {
   text-align: center;
 }
 
-#centered{
+#centered {
   text-align: center;
   margin: auto;
   width: 750px;
 }
 
-#centered-small{
+#centered-small {
   width: 250px;
   margin: auto;
   text-align: center;
 }
 
-
-@media only screen and (max-width: 650px){
-  #centered{
+@media only screen and (max-width: 650px) {
+  #centered {
     width: 350px;
   }
 }
 
-a{
+a {
   color: white;
 }
 
-a:visited{
+a:visited {
   color: white;
 }
 
-li{
+li {
   list-style-type: none
 }
 
-h3{
+h3 {
   text-align: center;
 }
