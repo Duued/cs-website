@@ -1,5 +1,5 @@
 body{
-  background-color: #2424bc; /* For browsers that do not support gradients */
+  background-color: #2424bc; /* For legacy browsers that do not support gradients */
   background-image: linear-gradient(to bottom right, #2424bc, #a9a9ef);
   background-attachment: fixed;
   color: white;
