@@ -3,5 +3,30 @@ body{
   background-image: linear-gradient(to bottom right, #2424bc, #a9a9ef);
   background-attachment: fixed;
   color: white;
+  font-family: Arial;
+}
 
+p{
+  text-align: center;
+}
+
+#centered{
+  text-align: center;
+  margin: auto;
+  width: 750px;
+}
+
+
+@media only screen and (max-width: 650px){
+  #centered{
+    width: 350px;
+  }
+}
+
+a{
+  color: white;
+}
+
+a:visited{
+  color: white;
 }
