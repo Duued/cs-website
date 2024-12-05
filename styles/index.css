@@ -16,6 +16,12 @@ p{
   width: 750px;
 }
 
+#centered-small{
+  width: 250px;
+  margin: auto;
+  text-align: center;
+}
+
 
 @media only screen and (max-width: 650px){
   #centered{
@@ -29,4 +35,12 @@ a{
 
 a:visited{
   color: white;
+}
+
+li{
+  list-style-type: none
+}
+
+h3{
+  text-align: center;
 }
