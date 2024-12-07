@@ -1,3 +1,3 @@
 # Coast School Website
 
-The public repository controlling https://coastsd.com
+The public repository controlling https://coastsd.com.
