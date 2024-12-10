@@ -24,11 +24,6 @@ To contribute to this project, follow these steps:
 4. Push your changes to your forked repository.
 5. Create a pull request to merge your changes into the main repository.
 
-## Code Owners
-
-The code owners for this repository are listed in the `.github/CODEOWNERS` file.
-
-
 ## Contact
 
 For any questions or inquiries, please contact the repository owner at [Duued](https://github.com/Duued).
