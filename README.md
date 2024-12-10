@@ -1,3 +1,5 @@
 # Coast School Website
 
-The public repository controlling https://coastsd.com
+The private repository controlling https://coastsd.com
+
+This repository is for contributors to contribute towards creating, rewriting, and otherwise editing https://coastsd.com
